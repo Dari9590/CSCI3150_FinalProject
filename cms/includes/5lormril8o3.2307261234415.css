@@ -5936,7 +5936,7 @@ main section .content-style header,main section header.content-style {
     background-size: contain;
     background-position: 50% 0%;
     background-repeat: no-repeat;
-    background-image: url('./images/panel/footer-bg.png');
+    background-image: url('CSCI3150_FinalProject/images/panel/footer-bg.png');
     padding: 20.7em 0 2.7em;
 }
 
@@ -8174,7 +8174,7 @@ html.larger-text body {
 }
 
 .services-panel {
-    background-image: url('./images/panel/services-bg.png');
+    background-image: url('CSCI3150_FinalProject/images/panel/services-bg.png');
     background-size: cover;
     background-position: 0 50%;
     background-repeat: no-repeat;
@@ -8202,7 +8202,7 @@ html.larger-text body {
     width: 100%;
     max-width: 31em;
     position: relative;
-    background-image: url('./images/panel/service-list-bg.png');
+    background-image: url('CSCI3150_FinalProject/images/panel/service-list-bg.png');
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
