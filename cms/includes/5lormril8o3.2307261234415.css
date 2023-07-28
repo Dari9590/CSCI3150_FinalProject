@@ -2105,8 +2105,7 @@ ul.our-board > li em {
     }
 }
 
-:root {
-}
+
 
 input,textarea,select {
     font-size: 0.9em;
@@ -3108,8 +3107,7 @@ div.cms-datepicker.cms-t.cms-d .cms-date-footer a.cms-simple,div.cms-datepicker.
     }
 }
 
-:root {
-}
+
 
 html {
     font-size: calc(15px + (18 - 15) * ((100vw - 1601px) / (1920 - 1601)));
@@ -4829,8 +4827,7 @@ main section .content-style header,main section header.content-style {
     }
 }
 
-:root {
-}
+
 
 [class*='flex-'] {
     -webkit-align-items: stretch;
