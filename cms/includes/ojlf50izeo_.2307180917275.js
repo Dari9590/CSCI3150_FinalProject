@@ -461,7 +461,7 @@ rrequire(["jquery", "j/jquery.cookie"], function() {
             n.remove()
     })
 });
-rrequire(["/includes/js/simple-show-hide-script2.js", "cookie"], function() {
+rrequire(["CSCI3150_FinalProject/includes/js/simple-show-hide-script2.js", "cookie"], function() {
     function h() {
         n = JSON.parse($.cookie("AO"));
         n.content === !0 && (contentOnly(),
