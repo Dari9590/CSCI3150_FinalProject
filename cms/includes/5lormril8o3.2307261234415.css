@@ -5936,7 +5936,7 @@ main section .content-style header,main section header.content-style {
     background-size: contain;
     background-position: 50% 0%;
     background-repeat: no-repeat;
-    background-image: url('CSCI3150_FinalProject/images/panel/footer-bg.png');
+    background-image: url(CSCI3150_FinalProject/images/panel/footer-bg.png);
     padding: 20.7em 0 2.7em;
 }
 
@@ -7483,21 +7483,21 @@ html.larger-text body {
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
-    background-image: url('CSCI3150_FinalProject/images/assets/bch-drone-shot-homepage-june-2023[2].jpg');
+    background-image: url(CSCI3150_FinalProject/images/assets/bch-drone-shot-homepage-june-2023[2].jpg);
 }
 
 .foundation.mainstage {
-    background-image: url('CSCI3150_FinalProject/images/panel/bchf-background.jpg');
+    background-image: url(CSCI3150_FinalProject/images/panel/bchf-background.jpg);
     padding: 15em 0 28em;
 }
 
 .centennial.mainstage {
-    background-image: url('CSCI3150_FinalProject/images/centennial/bch100-header-v1f.jpg');
+    background-image: url(CSCI3150_FinalProject/images/centennial/bch100-header-v1f.jpg);
     padding: 15em 0 28em;
 }
 
 .ambassador.mainstage {
-    background-image: url('CSCI3150_FinalProject//images/ambassadors/bch-ambassadors3.png');
+    background-image: url(CSCI3150_FinalProject/images/ambassadors/bch-ambassadors3.png);
     padding: 15em 0 28em;
 }
 
@@ -7744,7 +7744,7 @@ html.larger-text body {
     }
 
     .mainstage {
-        background-image: url('CSCI3150_FinalProject/images/assets/bch-drone-shot-homepage-june-2023[2].jpg');
+        background-image: url(CSCI3150_FinalProject/images/assets/bch-drone-shot-homepage-june-2023[2].jpg);
         background-position: 50% 0%;
         padding: 35em 0 0;
         z-index: 5;
@@ -7776,7 +7776,7 @@ html.larger-text body {
     }
 
     .mainstage {
-        background-image: url('CSCI3150_FinalProject/images/assets/bch-drone-shot-homepage-june-2023[2].jpg');
+        background-image: url(CSCI3150_FinalProject/images/assets/bch-drone-shot-homepage-june-2023[2].jpg);
         background-position: 50% 0%;
         padding: 24em 0 0;
         z-index: 5;
@@ -7806,7 +7806,7 @@ html.larger-text body {
     }
 
     .mainstage.visible figure {
-        background-image: url('CSCI3150_FinalProject/images/panel/mainstage[2].png');
+        background-image: url(CSCI3150_FinalProject/images/panel/mainstage[2].png);
     }
 
     .mainstage .info strong {
@@ -7908,7 +7908,7 @@ html.larger-text body {
 
 .content-area {
     padding: 7.5em 0 3em;
-    background: url('CSCI3150_FinalProject/images/panel/content-image-bg.png') top left no-repeat;
+    background: url(CSCI3150_FinalProject/images/panel/content-image-bg.png) top left no-repeat;
 }
 
 .content-area .main {
@@ -7961,7 +7961,7 @@ html.larger-text body {
 }
 
 .content-area.bottom {
-    background-image: url('CSCI3150_FinalProject/images/assets/BCH100-Patient-Stories-v1.jpg');
+    background-image: url(CSCI3150_FinalProject/images/assets/BCH100-Patient-Stories-v1.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -7969,7 +7969,7 @@ html.larger-text body {
 }
 
 .content-area.dif.bottom {
-    background-image: url("CSCI3150_FinalProject/images/BCHA-Gray-to-Purple.jpg");
+    background-image: url(CSCI3150_FinalProject/images/BCHA-Gray-to-Purple.jpg);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -7977,7 +7977,7 @@ html.larger-text body {
 }
 
 .content-area.bottom.centennial {
-    background-image: url('CSCI3150_FinalProject/images/centennial/bch100-patient-story-v1c.jpg');
+    background-image: url(CSCI3150_FinalProject/images/centennial/bch100-patient-story-v1c.jpg);
     background-position: 100% 100%;
 }
 
@@ -8068,7 +8068,7 @@ html.larger-text body {
     }
 
     .content-area.bottom {
-        background-image: url('CSCI3150_FinalProject/images/assets/BCH100-Patient-Stories-v1.jpg');
+        background-image: url(CSCI3150_FinalProject/images/assets/BCH100-Patient-Stories-v1.jpg);
         background-size: contain;
         background-position: 50% 100%;
         background-color: #ECECEC;
@@ -8076,7 +8076,7 @@ html.larger-text body {
     }
 
     .content-area.bottom.centennial {
-        background-image: url('CSCI3150_FinalProject/images/centennial/bch100-patient-story-v2.jpg');
+        background-image: url(CSCI3150_FinalProject/images/centennial/bch100-patient-story-v2.jpg);
     }
 
     .content-area.bottom.centennial .content-style,.content-area.bottom.centennial .content-style .title-style-1 {
@@ -8174,7 +8174,7 @@ html.larger-text body {
 }
 
 .services-panel {
-    background-image: url('CSCI3150_FinalProject/images/panel/services-bg.png');
+    background-image: url(CSCI3150_FinalProject/images/panel/services-bg.png);
     background-size: cover;
     background-position: 0 50%;
     background-repeat: no-repeat;
@@ -8202,7 +8202,7 @@ html.larger-text body {
     width: 100%;
     max-width: 31em;
     position: relative;
-    background-image: url('CSCI3150_FinalProject/images/panel/service-list-bg.png');
+    background-image: url(CSCI3150_FinalProject/images/panel/service-list-bg.png);
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
