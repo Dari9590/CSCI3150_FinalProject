@@ -1794,7 +1794,7 @@ nav.ui-top-nav ul li.active > ul {
     cursor: pointer;
     justify-content: space-between;
     align-items: center;
-    opacity: 1;
+    opacity: .5;
     transition: opacity .4s ease 0s;
     border-bottom: solid 1px rgba(0,0,0,0.2);
     padding-bottom: .55rem;
@@ -1838,7 +1838,7 @@ html:not(.cms-content) .raw-html-embed ul.el-tab-box .el-panel:not(.active) {
 
 @media screen and (min-width: 1025px) {
     .raw-html-embed ul.el-tab-box .el-tab.qst:is(:hover,:focus) {
-        opacity:.75;
+        opacity: .25;
     }
 }
 
@@ -7997,8 +7997,9 @@ html.larger-text body {
 
 .content-area.bottom em.story-text {
     font-size: 1.333rem;
-    color: #3d3d3d;
-    font-family: adobe-garamond-pro, serif;
+    color: #000000;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
     display: block;
     padding: 1.5em 0 0.5em;
 }
@@ -8202,7 +8203,7 @@ html.larger-text body {
     width: 100%;
     max-width: 31em;
     position: relative;
-    background-image: url(../../images/panel/service-list-bg.png);
+    background-color: #092523;
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -8314,11 +8315,11 @@ html.larger-text body {
 }
 
 .services-panel .el-tab a:hover svg {
-    color: #27235e;
+    color: #ffffff;
 }
 
 .services-panel .el-tab a:hover {
-    background-color: #CDE8E6;
+    background-color: #25494d;
     border-color: #FFFFFF;
 }
 
@@ -8327,7 +8328,7 @@ html.larger-text body {
 }
 
 .services-panel .serv-item a:hover,.services-panel .serv-item a:focus {
-    background-color: #CDE8E6;
+    background-color: #25494d;
     border-color: #FFFFFF;
 }
 
@@ -8339,7 +8340,7 @@ html.larger-text body {
 }
 
 .services-panel .serv-item a:hover .link-style-1,.services-panel .serv-item a:focus .link-style-1 {
-    color: #27235e;
+    color: #ffffff;
 }
 
 .services-panel .el-tab a .link-style-1 {
@@ -8359,7 +8360,7 @@ html.larger-text body {
 }
 
 .services-panel .el-tab a:hover .link-style-1 {
-    color: #27235e;
+    color: #ffffff;
 }
 
 .services-panel.centennial .service-list figure {
@@ -8559,11 +8560,11 @@ html.larger-text body {
     }
 
     .services-panel .el-tab a .link-style-1 {
-        color: #00857a;
+        color: #ffffff;
     }
 
     .services-panel .el-tab a svg {
-        color: #00857a;
+        color: #ffffff;
     }
 
     .services-panel .service-content {
